@@ -1,0 +1,501 @@
+train_number,train_type,source,destination,distance_km,day_of_week,month,delay_minutes
+12574,Shatabdi,MAS,NDLS,1086,Monday,7,45
+12794,Superfast,NDLS,CNB,693,Thursday,3,8
+12951,Superfast,PNBE,HWH,843,Sunday,8,37
+12957,Vande Bharat,HWH,DDU,1283,Saturday,4,23
+12452,Rajdhani,CSMT,SBC,1476,Saturday,10,18
+12008,Rajdhani,NDLS,PNBE,1000,Saturday,5,17
+12372,Rajdhani,PNBE,UMB,919,Saturday,7,44
+12829,Superfast,CSMT,DDU,1218,Tuesday,10,36
+12989,Mail,HWH,PNBE,1492,Monday,8,39
+12546,Mail,UMB,PNBE,1081,Sunday,4,22
+12729,Express,DDU,HWH,1067,Tuesday,5,30
+12851,Shatabdi,CNB,NDLS,339,Thursday,12,31
+12454,Express,NDLS,MAS,603,Monday,6,11
+12775,Duranto,NDLS,DDU,955,Monday,8,35
+12782,Duranto,HWH,CNB,824,Tuesday,8,28
+12400,Express,CSMT,PNBE,1091,Thursday,3,15
+12345,Vande Bharat,HWH,DDU,1796,Saturday,1,60
+12520,Express,HWH,CSMT,1336,Wednesday,6,25
+12008,Superfast,CSMT,UMB,1322,Saturday,5,53
+12770,Shatabdi,UMB,MAS,1117,Tuesday,2,15
+12201,Rajdhani,CSMT,MAS,1270,Tuesday,11,7
+12623,Duranto,MAS,DDU,1557,Friday,3,13
+12013,Vande Bharat,UMB,MAS,816,Sunday,8,36
+12112,Vande Bharat,MAS,CNB,1057,Thursday,1,47
+12190,Vande Bharat,SBC,MAS,360,Saturday,10,0
+12189,Shatabdi,UMB,PNBE,961,Sunday,12,63
+12159,Express,SBC,DDU,1438,Tuesday,5,25
+12472,Vande Bharat,SBC,NDLS,1126,Tuesday,6,24
+12062,Duranto,CNB,SBC,1419,Wednesday,6,20
+12021,Vande Bharat,CNB,PNBE,1558,Saturday,11,31
+12345,Shatabdi,BZA,MAS,430,Tuesday,5,16
+12871,Shatabdi,CSMT,HWH,870,Thursday,12,52
+12402,Rajdhani,HWH,MAS,1201,Wednesday,11,27
+12476,Duranto,CNB,CSMT,1332,Sunday,9,39
+12040,Express,NDLS,DDU,863,Wednesday,2,17
+12224,Vande Bharat,PNBE,CSMT,367,Friday,11,1
+12400,Duranto,SBC,DDU,1296,Monday,3,27
+12455,Express,CNB,PNBE,366,Wednesday,10,10
+12957,Shatabdi,DDU,CSMT,451,Thursday,1,38
+12768,Superfast,DDU,SBC,737,Tuesday,12,42
+12524,Superfast,PNBE,BZA,1716,Saturday,3,36
+12452,Superfast,CNB,SBC,708,Friday,7,30
+12415,Vande Bharat,DDU,CNB,340,Thursday,7,22
+12797,Mail,DDU,UMB,386,Thursday,12,45
+12232,Duranto,MAS,PNBE,364,Friday,11,4
+12150,Shatabdi,UMB,SBC,316,Monday,10,19
+12270,Duranto,CNB,UMB,627,Sunday,10,15
+12105,Vande Bharat,MAS,CSMT,1270,Tuesday,5,18
+12021,Superfast,HWH,NDLS,1450,Tuesday,8,46
+12488,Duranto,CNB,NDLS,324,Saturday,5,38
+12127,Vande Bharat,CSMT,HWH,916,Sunday,3,14
+12564,Vande Bharat,MAS,NDLS,1059,Monday,5,32
+12674,Duranto,DDU,UMB,1381,Sunday,10,16
+12406,Express,NDLS,CSMT,570,Friday,12,47
+12225,Vande Bharat,BZA,CNB,1506,Sunday,5,29
+12418,Express,NDLS,UMB,250,Tuesday,9,25
+12475,Rajdhani,CNB,PNBE,1799,Friday,11,25
+12710,Vande Bharat,HWH,BZA,540,Saturday,7,42
+12026,Shatabdi,UMB,BZA,1141,Friday,5,22
+12768,Mail,DDU,HWH,1207,Thursday,7,25
+12702,Express,BZA,CNB,667,Saturday,4,28
+12942,Superfast,MAS,DDU,383,Sunday,4,29
+12001,Express,DDU,MAS,429,Saturday,12,54
+12996,Mail,CNB,DDU,340,Wednesday,1,49
+12216,Superfast,UMB,SBC,1571,Thursday,9,61
+12224,Mail,HWH,DDU,1777,Saturday,1,71
+12040,Shatabdi,NDLS,DDU,964,Monday,2,24
+12854,Superfast,CNB,SBC,1663,Thursday,7,47
+12189,Rajdhani,UMB,PNBE,339,Saturday,4,29
+12303,Rajdhani,PNBE,SBC,329,Wednesday,4,14
+12639,Superfast,CSMT,MAS,1270,Wednesday,4,33
+12219,Vande Bharat,DDU,CSMT,1713,Friday,10,33
+12860,Superfast,HWH,CSMT,1619,Thursday,8,48
+12929,Rajdhani,NDLS,UMB,250,Wednesday,2,2
+12161,Express,HWH,MAS,1254,Sunday,1,66
+12672,Express,BZA,NDLS,898,Sunday,7,58
+12297,Express,BZA,NDLS,389,Wednesday,6,22
+12863,Shatabdi,CSMT,UMB,1597,Saturday,8,64
+12729,Duranto,NDLS,PNBE,1000,Thursday,10,6
+12772,Vande Bharat,SBC,MAS,360,Friday,12,28
+12452,Mail,MAS,NDLS,930,Tuesday,8,34
+12681,Duranto,MAS,DDU,1498,Monday,12,36
+12733,Superfast,UMB,NDLS,250,Monday,3,13
+12795,Duranto,HWH,SBC,356,Friday,11,2
+12821,Vande Bharat,NDLS,DDU,423,Tuesday,4,21
+12734,Superfast,SBC,UMB,1306,Tuesday,7,32
+12402,Duranto,CNB,CSMT,672,Saturday,2,31
+12640,Rajdhani,BZA,DDU,1703,Thursday,8,31
+12008,Duranto,UMB,CNB,1147,Sunday,8,33
+12877,Shatabdi,PNBE,SBC,1042,Saturday,5,28
+12726,Rajdhani,HWH,DDU,952,Wednesday,10,27
+12095,Shatabdi,UMB,CSMT,922,Wednesday,5,23
+12052,Express,HWH,MAS,1322,Tuesday,10,27
+12624,Rajdhani,NDLS,BZA,1384,Saturday,10,24
+12770,Express,CNB,BZA,1600,Friday,2,25
+12496,Express,CNB,UMB,757,Tuesday,2,13
+12931,Vande Bharat,UMB,NDLS,250,Tuesday,6,9
+12705,Superfast,DDU,HWH,1237,Monday,2,26
+12458,Superfast,PNBE,HWH,900,Sunday,2,42
+12021,Superfast,MAS,CNB,656,Tuesday,7,21
+12646,Mail,DDU,CSMT,543,Thursday,6,33
+12766,Rajdhani,UMB,HWH,974,Friday,8,35
+12385,Duranto,NDLS,DDU,349,Thursday,5,7
+12921,Express,CSMT,MAS,1270,Saturday,4,33
+12510,Express,PNBE,HWH,568,Monday,3,24
+12301,Express,MAS,BZA,430,Friday,11,16
+12744,Superfast,UMB,CSMT,870,Friday,6,11
+12492,Rajdhani,PNBE,CSMT,1242,Saturday,8,47
+12048,Rajdhani,DDU,PNBE,1345,Wednesday,8,44
+12303,Shatabdi,UMB,HWH,1079,Sunday,11,37
+12037,Duranto,CSMT,UMB,1213,Monday,10,9
+12565,Vande Bharat,UMB,NDLS,250,Sunday,10,3
+12804,Duranto,CNB,DDU,340,Wednesday,9,22
+12792,Express,DDU,HWH,1515,Saturday,1,91
+12805,Rajdhani,NDLS,UMB,250,Tuesday,9,12
+12648,Rajdhani,CNB,BZA,1094,Friday,1,36
+12503,Vande Bharat,DDU,MAS,424,Saturday,2,19
+12727,Shatabdi,DDU,UMB,648,Friday,9,35
+12112,Rajdhani,UMB,DDU,759,Friday,11,7
+12098,Rajdhani,NDLS,HWH,1450,Thursday,6,37
+12458,Shatabdi,DDU,CSMT,1548,Saturday,7,48
+12517,Express,NDLS,BZA,1685,Wednesday,3,26
+12242,Superfast,CSMT,MAS,1270,Friday,4,29
+12546,Rajdhani,UMB,PNBE,1423,Friday,7,29
+12255,Rajdhani,SBC,CNB,1318,Wednesday,2,3
+12797,Rajdhani,UMB,HWH,1737,Wednesday,8,41
+12804,Shatabdi,HWH,PNBE,1313,Tuesday,10,37
+12836,Duranto,CSMT,BZA,1157,Wednesday,11,16
+12749,Superfast,PNBE,CSMT,429,Sunday,3,25
+12800,Express,NDLS,HWH,1450,Sunday,10,35
+12562,Mail,BZA,MAS,430,Saturday,2,22
+12860,Superfast,SBC,NDLS,851,Tuesday,6,32
+12020,Duranto,PNBE,HWH,1366,Monday,5,16
+12098,Express,CNB,BZA,1322,Sunday,10,22
+12967,Duranto,BZA,CNB,538,Wednesday,11,0
+12748,Shatabdi,CSMT,HWH,1534,Thursday,1,55
+12121,Express,DDU,UMB,1345,Wednesday,6,36
+12698,Rajdhani,PNBE,DDU,767,Wednesday,2,11
+12201,Vande Bharat,BZA,MAS,430,Tuesday,11,3
+12927,Vande Bharat,MAS,CNB,1490,Sunday,11,30
+12896,Express,HWH,SBC,1119,Thursday,7,42
+12151,Shatabdi,BZA,NDLS,1008,Saturday,9,56
+12402,Mail,UMB,MAS,1545,Saturday,1,76
+12452,Duranto,UMB,HWH,1367,Saturday,8,38
+12058,Duranto,HWH,MAS,1214,Saturday,3,5
+12856,Shatabdi,CSMT,HWH,620,Tuesday,11,13
+12191,Mail,MAS,CNB,1128,Friday,11,13
+12147,Duranto,SBC,HWH,771,Tuesday,9,36
+12891,Superfast,DDU,BZA,1043,Friday,1,44
+12995,Shatabdi,HWH,CSMT,1697,Monday,4,16
+12276,Vande Bharat,CNB,UMB,840,Saturday,1,45
+12219,Express,UMB,CNB,1779,Saturday,11,25
+12524,Mail,DDU,SBC,419,Friday,1,56
+12871,Shatabdi,BZA,HWH,724,Saturday,1,61
+12838,Express,BZA,NDLS,1217,Saturday,12,67
+12276,Duranto,NDLS,UMB,250,Thursday,11,8
+12099,Shatabdi,MAS,UMB,419,Tuesday,10,20
+12013,Shatabdi,UMB,SBC,831,Thursday,9,47
+12646,Vande Bharat,HWH,NDLS,1450,Tuesday,4,17
+12402,Express,PNBE,CSMT,615,Monday,9,24
+12134,Rajdhani,NDLS,MAS,1290,Sunday,3,18
+12343,Superfast,CSMT,CNB,394,Sunday,10,23
+12105,Rajdhani,MAS,CNB,1190,Friday,7,13
+12098,Express,UMB,BZA,757,Saturday,6,41
+12957,Superfast,PNBE,SBC,330,Saturday,12,38
+12744,Duranto,HWH,BZA,1341,Friday,4,25
+12322,Shatabdi,UMB,SBC,622,Saturday,12,54
+12563,Express,PNBE,UMB,1404,Friday,5,31
+12733,Superfast,BZA,SBC,344,Monday,5,14
+12345,Superfast,CNB,NDLS,1467,Tuesday,12,56
+12992,Express,PNBE,DDU,1488,Wednesday,4,26
+12472,Duranto,NDLS,CNB,1185,Friday,1,39
+12606,Express,CSMT,BZA,1644,Tuesday,7,39
+12562,Vande Bharat,NDLS,CNB,430,Tuesday,4,23
+12935,Superfast,PNBE,BZA,1063,Sunday,8,53
+12288,Vande Bharat,CSMT,UMB,835,Sunday,9,42
+12577,Shatabdi,CNB,SBC,967,Saturday,5,27
+12954,Mail,BZA,SBC,1486,Thursday,4,27
+12749,Vande Bharat,MAS,SBC,360,Saturday,3,7
+12805,Duranto,SBC,BZA,1225,Tuesday,1,40
+12794,Mail,DDU,UMB,1189,Saturday,6,27
+12160,Vande Bharat,NDLS,CNB,302,Thursday,12,47
+12130,Duranto,BZA,NDLS,1114,Thursday,9,27
+12897,Rajdhani,PNBE,BZA,1167,Friday,2,6
+12700,Express,NDLS,HWH,1450,Friday,9,33
+12461,Express,BZA,NDLS,1204,Monday,10,15
+12744,Duranto,HWH,BZA,637,Tuesday,10,4
+12484,Shatabdi,CSMT,PNBE,333,Saturday,12,52
+12878,Mail,HWH,BZA,1369,Sunday,1,58
+12698,Rajdhani,NDLS,HWH,1450,Tuesday,2,3
+12875,Shatabdi,NDLS,CNB,1582,Thursday,6,18
+12270,Shatabdi,SBC,CNB,1482,Friday,4,35
+12592,Express,SBC,MAS,360,Thursday,12,42
+12021,Shatabdi,CNB,SBC,925,Saturday,11,34
+12699,Vande Bharat,CSMT,CNB,1768,Tuesday,8,45
+12957,Duranto,PNBE,BZA,1457,Monday,7,37
+12698,Duranto,NDLS,DDU,621,Saturday,1,38
+12159,Vande Bharat,SBC,HWH,687,Friday,11,10
+12508,Shatabdi,PNBE,SBC,971,Sunday,10,40
+12472,Express,HWH,NDLS,1450,Friday,11,20
+12690,Shatabdi,MAS,CSMT,1270,Monday,9,45
+12224,Rajdhani,SBC,NDLS,895,Wednesday,9,30
+12955,Duranto,BZA,DDU,1361,Friday,7,46
+12663,Superfast,BZA,HWH,1680,Tuesday,3,21
+12952,Rajdhani,MAS,DDU,1193,Tuesday,11,23
+12191,Shatabdi,SBC,HWH,532,Thursday,8,32
+12989,Express,HWH,CNB,474,Monday,2,9
+12681,Rajdhani,HWH,SBC,1579,Thursday,5,23
+12856,Superfast,SBC,CNB,587,Tuesday,4,23
+12639,Duranto,MAS,CSMT,1270,Sunday,2,39
+12955,Mail,DDU,HWH,1000,Wednesday,4,27
+12071,Superfast,HWH,SBC,614,Friday,12,47
+12345,Express,HWH,UMB,1658,Sunday,6,54
+12691,Shatabdi,BZA,UMB,1379,Saturday,5,43
+12748,Mail,DDU,MAS,1262,Monday,12,47
+12860,Superfast,NDLS,DDU,1036,Saturday,8,61
+12091,Shatabdi,CSMT,PNBE,1641,Friday,12,50
+12098,Superfast,BZA,PNBE,1597,Wednesday,12,50
+12639,Express,NDLS,DDU,437,Tuesday,11,7
+12233,Vande Bharat,NDLS,CNB,421,Monday,10,0
+12546,Superfast,BZA,DDU,724,Tuesday,11,19
+12441,Duranto,HWH,BZA,1749,Friday,7,37
+12815,Express,CNB,BZA,1038,Monday,2,0
+12134,Shatabdi,UMB,NDLS,250,Saturday,3,20
+12130,Shatabdi,DDU,BZA,446,Saturday,11,20
+12102,Superfast,PNBE,UMB,987,Friday,2,27
+12517,Express,MAS,HWH,1256,Tuesday,12,48
+12337,Shatabdi,PNBE,BZA,1148,Sunday,3,51
+12488,Express,HWH,SBC,823,Thursday,11,29
+12699,Vande Bharat,BZA,SBC,1498,Monday,3,13
+12913,Duranto,SBC,PNBE,945,Thursday,1,50
+12838,Express,CSMT,HWH,1065,Tuesday,6,29
+12392,Express,SBC,DDU,496,Saturday,9,46
+12105,Vande Bharat,BZA,SBC,588,Saturday,3,24
+12974,Express,PNBE,MAS,945,Monday,3,19
+12252,Superfast,CSMT,BZA,1798,Monday,8,49
+12385,Rajdhani,DDU,CNB,340,Monday,8,31
+12297,Shatabdi,BZA,CSMT,1250,Monday,6,43
+12724,Superfast,HWH,CSMT,1453,Tuesday,9,46
+12112,Duranto,CSMT,HWH,720,Thursday,7,25
+12967,Duranto,CSMT,NDLS,1702,Saturday,6,17
+12159,Mail,UMB,BZA,1464,Sunday,5,55
+12935,Rajdhani,HWH,MAS,636,Sunday,7,36
+12441,Mail,CSMT,DDU,1347,Sunday,5,42
+12253,Superfast,SBC,BZA,1291,Monday,7,58
+12242,Superfast,CNB,PNBE,1061,Wednesday,11,22
+12906,Duranto,MAS,HWH,1224,Saturday,11,22
+12646,Shatabdi,PNBE,UMB,1023,Tuesday,4,36
+12955,Express,CSMT,MAS,1270,Friday,3,26
+12818,Shatabdi,MAS,PNBE,1348,Saturday,3,38
+12403,Vande Bharat,PNBE,HWH,1395,Thursday,8,23
+12413,Duranto,PNBE,HWH,1638,Thursday,3,28
+12768,Express,CNB,DDU,340,Saturday,10,26
+12640,Duranto,PNBE,BZA,382,Saturday,5,9
+12607,Shatabdi,SBC,CNB,1788,Tuesday,12,61
+12854,Duranto,CSMT,NDLS,1546,Saturday,1,40
+12931,Shatabdi,SBC,NDLS,567,Wednesday,12,64
+12577,Vande Bharat,PNBE,CSMT,987,Friday,4,8
+12242,Express,BZA,PNBE,1181,Thursday,4,39
+12957,Vande Bharat,MAS,HWH,907,Friday,3,4
+12146,Rajdhani,UMB,CSMT,1289,Friday,8,39
+12838,Shatabdi,CNB,HWH,1619,Wednesday,11,18
+12763,Rajdhani,CSMT,UMB,483,Wednesday,7,34
+12619,Superfast,CNB,NDLS,338,Tuesday,4,16
+12040,Duranto,HWH,CSMT,1561,Tuesday,12,51
+12020,Rajdhani,MAS,BZA,430,Sunday,12,46
+12738,Mail,CSMT,DDU,374,Tuesday,7,22
+12959,Vande Bharat,HWH,CSMT,1658,Tuesday,4,27
+12162,Duranto,MAS,PNBE,575,Monday,12,33
+12435,Express,UMB,PNBE,1687,Friday,7,55
+12180,Shatabdi,UMB,HWH,1159,Sunday,5,34
+12571,Rajdhani,CSMT,CNB,319,Friday,5,9
+12150,Express,PNBE,CNB,1116,Wednesday,11,34
+12301,Superfast,CNB,UMB,1070,Friday,12,69
+12699,Superfast,CNB,UMB,1163,Friday,10,27
+12273,Rajdhani,CNB,CSMT,1772,Wednesday,2,17
+12913,Duranto,UMB,NDLS,250,Tuesday,6,6
+12683,Mail,UMB,PNBE,1459,Tuesday,6,23
+12288,Express,DDU,BZA,1462,Wednesday,2,19
+12225,Superfast,SBC,HWH,333,Sunday,2,21
+12797,Express,HWH,SBC,1409,Sunday,7,69
+12957,Rajdhani,SBC,UMB,1267,Monday,4,18
+12561,Mail,CSMT,SBC,1362,Monday,3,13
+12502,Mail,SBC,CSMT,1485,Tuesday,4,30
+12871,Mail,PNBE,SBC,1140,Monday,10,22
+12883,Vande Bharat,NDLS,CSMT,1198,Monday,2,14
+12871,Mail,SBC,CSMT,455,Monday,8,40
+12648,Mail,DDU,NDLS,1622,Wednesday,10,26
+12112,Express,CSMT,UMB,1665,Wednesday,9,52
+12270,Superfast,MAS,SBC,360,Sunday,8,37
+12276,Superfast,HWH,MAS,1186,Wednesday,12,66
+12748,Rajdhani,MAS,HWH,1255,Tuesday,3,16
+12143,Mail,UMB,NDLS,250,Wednesday,11,15
+12828,Mail,CNB,PNBE,840,Tuesday,1,42
+12207,Vande Bharat,PNBE,BZA,1237,Saturday,7,48
+12035,Shatabdi,MAS,NDLS,1285,Saturday,5,43
+12751,Rajdhani,SBC,DDU,1453,Tuesday,7,27
+12744,Mail,HWH,PNBE,1200,Thursday,4,13
+12637,Mail,CSMT,HWH,387,Friday,5,21
+12496,Vande Bharat,DDU,PNBE,1718,Monday,9,35
+12851,Duranto,MAS,HWH,392,Thursday,8,27
+12048,Mail,DDU,UMB,498,Saturday,10,14
+12197,Shatabdi,PNBE,CSMT,355,Monday,11,1
+12815,Rajdhani,DDU,CSMT,1440,Saturday,5,33
+12751,Shatabdi,HWH,DDU,437,Monday,10,11
+12020,Shatabdi,MAS,DDU,1598,Friday,7,29
+12219,Express,DDU,SBC,404,Monday,10,24
+12162,Express,CNB,CSMT,1002,Wednesday,11,9
+12517,Superfast,HWH,DDU,372,Tuesday,9,54
+12246,Shatabdi,UMB,HWH,1731,Friday,4,27
+12337,Superfast,PNBE,NDLS,1000,Sunday,6,38
+12510,Rajdhani,CNB,UMB,902,Thursday,2,24
+12080,Shatabdi,NDLS,MAS,1029,Thursday,12,62
+12379,Express,CSMT,MAS,1270,Monday,8,58
+12840,Express,CSMT,UMB,497,Tuesday,4,7
+12040,Mail,CNB,HWH,1054,Saturday,5,26
+12224,Express,BZA,HWH,1199,Tuesday,4,28
+12681,Superfast,BZA,HWH,998,Sunday,1,66
+12161,Mail,NDLS,MAS,1560,Monday,3,25
+12709,Vande Bharat,MAS,PNBE,1358,Thursday,7,22
+12919,Vande Bharat,SBC,CNB,701,Wednesday,9,32
+12032,Mail,BZA,MAS,430,Tuesday,8,32
+12691,Shatabdi,SBC,MAS,360,Tuesday,8,31
+12230,Duranto,BZA,PNBE,1276,Sunday,6,11
+12863,Vande Bharat,HWH,SBC,1196,Tuesday,2,20
+12835,Shatabdi,NDLS,BZA,595,Saturday,7,47
+12699,Shatabdi,MAS,BZA,430,Wednesday,1,58
+12283,Express,PNBE,UMB,1740,Monday,8,46
+12122,Superfast,DDU,MAS,1138,Thursday,7,45
+12337,Shatabdi,PNBE,NDLS,1000,Thursday,4,31
+12047,Rajdhani,DDU,SBC,1113,Thursday,5,4
+12987,Vande Bharat,PNBE,DDU,601,Wednesday,6,33
+12498,Rajdhani,NDLS,MAS,1342,Saturday,3,21
+12646,Vande Bharat,HWH,PNBE,335,Monday,9,29
+12782,Duranto,DDU,PNBE,1745,Thursday,4,29
+12763,Superfast,DDU,UMB,1398,Sunday,12,57
+12612,Express,UMB,DDU,1438,Sunday,3,49
+12627,Mail,UMB,PNBE,930,Monday,3,21
+12246,Rajdhani,PNBE,BZA,408,Monday,12,34
+12189,Duranto,UMB,SBC,647,Tuesday,4,14
+12751,Duranto,UMB,HWH,807,Wednesday,6,21
+12642,Vande Bharat,HWH,MAS,1480,Saturday,7,46
+12878,Rajdhani,NDLS,DDU,421,Friday,9,33
+12214,Duranto,MAS,SBC,360,Wednesday,12,22
+12863,Shatabdi,DDU,HWH,1615,Tuesday,11,20
+12955,Vande Bharat,SBC,NDLS,1503,Thursday,3,0
+12130,Duranto,CNB,SBC,371,Sunday,8,51
+12480,Shatabdi,BZA,MAS,430,Sunday,7,60
+12366,Superfast,CNB,HWH,1305,Saturday,3,38
+12348,Mail,PNBE,BZA,891,Tuesday,7,30
+12831,Express,CNB,PNBE,1059,Friday,2,39
+12624,Shatabdi,SBC,UMB,1734,Saturday,2,32
+12571,Duranto,PNBE,MAS,643,Monday,6,11
+12455,Shatabdi,HWH,UMB,1599,Sunday,9,57
+12505,Express,UMB,HWH,1715,Tuesday,3,30
+12511,Express,DDU,SBC,807,Thursday,5,28
+12246,Superfast,HWH,NDLS,1450,Wednesday,3,29
+12337,Shatabdi,NDLS,MAS,1423,Sunday,3,33
+12225,Rajdhani,DDU,BZA,569,Friday,2,13
+12348,Mail,UMB,SBC,442,Thursday,1,42
+12225,Rajdhani,PNBE,HWH,877,Thursday,3,15
+12928,Shatabdi,HWH,UMB,463,Saturday,12,58
+12358,Express,BZA,HWH,1473,Friday,6,35
+12770,Mail,BZA,SBC,451,Friday,2,19
+12157,Vande Bharat,SBC,BZA,1024,Monday,2,8
+12819,Vande Bharat,CNB,PNBE,817,Friday,9,33
+12226,Vande Bharat,DDU,UMB,1379,Tuesday,4,26
+12130,Vande Bharat,PNBE,UMB,1568,Thursday,9,27
+12957,Mail,PNBE,UMB,1583,Friday,1,53
+12301,Superfast,UMB,BZA,895,Tuesday,1,53
+12410,Duranto,SBC,UMB,372,Monday,3,19
+12742,Express,HWH,CNB,1274,Tuesday,3,29
+12562,Mail,DDU,NDLS,1794,Saturday,6,57
+12255,Rajdhani,SBC,CSMT,434,Friday,10,3
+12661,Vande Bharat,MAS,SBC,360,Monday,7,27
+12232,Duranto,NDLS,PNBE,1000,Saturday,3,28
+12797,Shatabdi,SBC,BZA,1706,Thursday,11,8
+12776,Vande Bharat,UMB,DDU,378,Wednesday,1,47
+12563,Superfast,SBC,PNBE,1451,Thursday,9,29
+12763,Duranto,SBC,BZA,1130,Tuesday,6,26
+12778,Superfast,BZA,HWH,1627,Friday,8,51
+12686,Superfast,BZA,UMB,1168,Thursday,9,22
+12403,Express,PNBE,SBC,1417,Wednesday,5,10
+12690,Express,SBC,MAS,360,Thursday,4,30
+12725,Mail,NDLS,PNBE,1000,Saturday,12,69
+12609,Vande Bharat,DDU,UMB,642,Friday,12,31
+12981,Rajdhani,PNBE,NDLS,1000,Sunday,3,14
+12387,Vande Bharat,NDLS,BZA,1760,Sunday,6,38
+12806,Rajdhani,MAS,NDLS,979,Tuesday,1,41
+12317,Superfast,CSMT,NDLS,1445,Saturday,11,42
+12699,Mail,CNB,MAS,1370,Wednesday,9,47
+12150,Mail,BZA,HWH,1295,Wednesday,10,35
+12160,Superfast,MAS,CSMT,1270,Friday,9,50
+12702,Duranto,HWH,DDU,484,Friday,9,32
+12839,Express,UMB,BZA,347,Thursday,6,15
+12540,Superfast,BZA,HWH,1281,Sunday,7,49
+12829,Rajdhani,CNB,CSMT,626,Monday,9,27
+12111,Vande Bharat,BZA,DDU,1309,Monday,2,29
+12987,Vande Bharat,NDLS,BZA,1209,Monday,11,10
+12267,Duranto,DDU,CSMT,414,Wednesday,9,28
+12546,Vande Bharat,DDU,CNB,340,Saturday,4,2
+12471,Superfast,PNBE,NDLS,1000,Monday,3,25
+12612,Duranto,HWH,MAS,1483,Wednesday,1,64
+12929,Mail,PNBE,DDU,974,Friday,5,17
+12771,Superfast,UMB,HWH,384,Thursday,8,59
+12200,Shatabdi,HWH,UMB,1635,Monday,8,47
+12224,Duranto,UMB,CSMT,710,Thursday,7,8
+12586,Superfast,HWH,CNB,1477,Thursday,12,51
+12190,Duranto,NDLS,BZA,957,Friday,6,27
+12427,Vande Bharat,DDU,MAS,492,Tuesday,4,27
+12840,Express,HWH,CNB,1204,Tuesday,7,47
+12166,Express,BZA,CNB,871,Wednesday,10,31
+12358,Vande Bharat,BZA,UMB,1249,Friday,9,25
+12418,Rajdhani,DDU,UMB,1555,Monday,6,17
+12709,Rajdhani,PNBE,CNB,306,Friday,12,21
+12612,Vande Bharat,SBC,MAS,360,Tuesday,6,5
+12699,Duranto,PNBE,SBC,596,Sunday,8,44
+12562,Express,MAS,UMB,1788,Monday,5,34
+12637,Express,DDU,MAS,402,Wednesday,8,40
+12838,Mail,DDU,MAS,1291,Sunday,12,55
+12863,Vande Bharat,HWH,PNBE,326,Wednesday,8,18
+12098,Rajdhani,DDU,HWH,1701,Friday,7,40
+12836,Duranto,HWH,CNB,1359,Wednesday,8,30
+12197,Superfast,UMB,HWH,869,Friday,12,59
+12160,Rajdhani,SBC,UMB,708,Saturday,6,19
+12496,Superfast,HWH,CSMT,1736,Thursday,11,23
+12878,Rajdhani,UMB,DDU,1070,Saturday,6,31
+12415,Duranto,CNB,PNBE,1362,Wednesday,2,12
+12550,Vande Bharat,MAS,UMB,1060,Monday,2,2
+12459,Shatabdi,DDU,NDLS,1089,Wednesday,11,12
+12471,Mail,BZA,CSMT,1038,Friday,7,44
+12546,Express,NDLS,PNBE,1000,Sunday,10,19
+12459,Superfast,MAS,CSMT,1270,Wednesday,4,38
+12200,Duranto,CNB,HWH,499,Monday,4,6
+12288,Shatabdi,DDU,UMB,1036,Monday,3,25
+12240,Superfast,SBC,MAS,360,Monday,12,38
+12564,Superfast,MAS,CNB,1520,Monday,11,17
+12130,Duranto,NDLS,CNB,708,Wednesday,11,11
+12484,Duranto,UMB,HWH,979,Monday,11,20
+12502,Shatabdi,CNB,NDLS,1712,Saturday,1,65
+12607,Shatabdi,HWH,DDU,830,Tuesday,5,22
+12642,Vande Bharat,BZA,HWH,1177,Wednesday,5,25
+12676,Duranto,UMB,MAS,1583,Sunday,10,34
+12967,Rajdhani,BZA,SBC,501,Wednesday,10,6
+12619,Vande Bharat,NDLS,DDU,1335,Saturday,11,21
+12996,Rajdhani,UMB,PNBE,1124,Friday,7,33
+12273,Rajdhani,SBC,BZA,710,Monday,2,7
+12496,Superfast,SBC,UMB,361,Friday,5,21
+12207,Mail,NDLS,HWH,1450,Wednesday,3,14
+12726,Superfast,CSMT,UMB,1083,Tuesday,3,23
+12040,Vande Bharat,NDLS,HWH,1450,Tuesday,6,15
+12159,Vande Bharat,MAS,CNB,782,Saturday,5,32
+12071,Superfast,BZA,SBC,1662,Sunday,6,36
+12230,Rajdhani,CNB,CSMT,1560,Sunday,1,52
+12498,Shatabdi,NDLS,MAS,1661,Tuesday,2,30
+12496,Superfast,BZA,NDLS,671,Thursday,10,16
+12818,Rajdhani,BZA,DDU,586,Friday,5,31
+12040,Vande Bharat,DDU,CNB,340,Saturday,6,7
+12815,Vande Bharat,PNBE,CSMT,1655,Thursday,8,39
+12683,Duranto,BZA,SBC,1513,Sunday,3,36
+12472,Mail,MAS,UMB,1584,Tuesday,12,51
+12838,Duranto,BZA,CNB,541,Sunday,8,30
+12906,Vande Bharat,NDLS,BZA,1034,Tuesday,5,10
+12954,Rajdhani,NDLS,DDU,1538,Sunday,8,34
+12681,Express,PNBE,SBC,1718,Saturday,1,77
+12219,Superfast,DDU,UMB,557,Monday,12,42
+12438,Rajdhani,CSMT,CNB,1442,Thursday,9,32
+12091,Duranto,SBC,MAS,360,Friday,6,0
+12053,Rajdhani,HWH,CNB,834,Friday,11,0
+12606,Superfast,CNB,PNBE,945,Sunday,12,71
+12138,Duranto,PNBE,UMB,1229,Saturday,6,31
+12021,Duranto,CNB,UMB,1449,Monday,6,30
+12226,Express,PNBE,SBC,1384,Saturday,6,47
+12337,Shatabdi,CSMT,NDLS,613,Saturday,10,18
+12230,Rajdhani,MAS,CNB,1047,Wednesday,6,36
+12987,Duranto,BZA,PNBE,594,Sunday,7,53
+12064,Superfast,MAS,DDU,1607,Tuesday,2,21
+12875,Shatabdi,BZA,CSMT,740,Sunday,3,0
+12402,Mail,NDLS,HWH,1450,Thursday,2,21
+12641,Superfast,DDU,UMB,366,Wednesday,8,35
+12189,Mail,MAS,BZA,430,Saturday,4,24
+12508,Express,CSMT,NDLS,418,Sunday,9,42
+12942,Superfast,DDU,CNB,340,Sunday,2,16
+12472,Duranto,DDU,UMB,566,Saturday,9,45
+12962,Mail,SBC,MAS,360,Sunday,11,24
+12230,Shatabdi,NDLS,HWH,1450,Saturday,6,47
+12103,Shatabdi,UMB,HWH,860,Monday,12,58
+12156,Rajdhani,PNBE,NDLS,1000,Tuesday,8,14
+12484,Rajdhani,PNBE,DDU,1105,Monday,9,26
+12729,Duranto,DDU,CSMT,311,Sunday,11,10
+12674,Duranto,DDU,MAS,670,Friday,12,59
+12262,Shatabdi,MAS,CSMT,1270,Sunday,5,38
+12201,Vande Bharat,SBC,HWH,702,Sunday,1,55
+12270,Shatabdi,CNB,BZA,1769,Friday,9,32
+12232,Duranto,MAS,NDLS,629,Monday,7,29
+12471,Shatabdi,NDLS,SBC,494,Friday,12,52
+12020,Rajdhani,HWH,CSMT,953,Sunday,9,48
+12459,Duranto,SBC,CSMT,1185,Tuesday,2,18
+12951,Mail,MAS,BZA,430,Friday,11,14
+12253,Express,CNB,DDU,340,Friday,6,18
